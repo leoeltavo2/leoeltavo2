@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hola, un gusto saludarte me llamo Leonel! 
 
-<!--
-**leoeltavo2/leoeltavo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web usando la tecnología de php junto con el framework de Laravel
 
-Here are some ideas to get you started:
+[![Laravel][Laravel.com]][Laravel-url]  [![Bootstrap][Bootstrap.com]][Bootstrap-url]  [![JQuery][JQuery.com]][JQuery-url] [![PHP][PHP.com]][PHP-url] [![MySQL][MySQL.com]][MySQL-url] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
+[PHP.com]: https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white
+[PHP-url]: https://www.php.net
+[MySQL.com]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com
