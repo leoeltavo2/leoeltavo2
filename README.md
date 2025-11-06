@@ -1,6 +1,6 @@
 ## ¡Hola, un gusto saludarte me llamo Leonel! 
 
-Soy desarrollador web usando la tecnología de php junto con el framework de Laravel
+Ingeniero en Tecnologías de la Información y Comunicaciones egresado del Instituto Tecnológico de Morelia con más de 3 años de experiencia en el desarrollo web con php y su framework laravel.
 
 [![Laravel][Laravel.com]][Laravel-url]  [![Bootstrap][Bootstrap.com]][Bootstrap-url]  [![JQuery][JQuery.com]][JQuery-url] [![PHP][PHP.com]][PHP-url] [![MySQL][MySQL.com]][MySQL-url] 
 
